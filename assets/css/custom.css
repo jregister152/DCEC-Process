@@ -170,14 +170,14 @@ header p{
   color: rgba(158, 212, 172, 1);
 }
 h1{
-  font-family: Georgia-Bold, serif;
-  font-size: 36px;
-  color: #252629;
+  font-family: Georgia, serif;
+  font-size: 40px;
+  color: #79c7e2;
 }
 h2{
-  font-family: Montserrat-SemiBoldItalic, sans-serif;
+  font-family: Montserrat-SemiBold, sans-serif;
   font-size: 28px;
-  color: #79c7e2;
+  color: #252629;
 }
 h3{
   font-family: Montserrat-Bold, sans-serif;
@@ -211,20 +211,18 @@ div.inner {
 }
 table th {
   font-family: Montserrat-Regular, sans-serif;
-  font-size: 12px;
+  font-size: 15px;
   color: rgba(37, 38, 41, 1);
 }
 .row.uniform.\35 0\25 {
     margin: 5em 0 2em -1em;
 }
-table.alt tbody tr td.a {
-  background-color: rgba(126, 202, 226, 1);
-  border-color: rgba(144, 144, 144, 0.25);
-}
-table.alt tbody tr td.b {
-  background-color: rgba(158, 212, 172, 1);
-  border-color: rgba(144, 144, 144, 0.25);
+table.alt tbody tr td {
+  background-color: rgba(37, 38, 41, .05);
 }
 table.alt tbody tr td ul {
-  color: rgba(247, 248, 252, 1);
+  color: rgba(37, 38, 41, 1);
+}
+.copyright{
+  font-family: Montserrat-Regular, sans-serif;
 }
