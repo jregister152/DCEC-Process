@@ -72,7 +72,7 @@ added to the button in the index html file as well.*/
 }
 .post.style1 a {
   color: rgba(247, 248, 252, 1);
-  font-family: Georgia, serif;
+  font-family: Montserrat-ExtraBold, sans-serif;
 }
 .post.style1 p {
   font-family: Montserrat-Regular, sans-serif;
@@ -95,7 +95,7 @@ added to the button in the index html file as well.*/
 }
 .post.style1.invert a {
   color: #252629;
-  font-family: Georgia, serif;
+  font-family: Montserrat-ExtraBold, sans-serif;
 }
 .post.style1.invert p {
   font-family: Montserrat-Regular, sans-serif;
@@ -118,7 +118,7 @@ added to the button in the index html file as well.*/
 }
 .post.style2 a {
   color: rgba(247, 248, 252, 1);
-  font-family: Georgia, serif;
+  font-family: Montserrat-ExtraBold, sans-serif;
 }
 .post.style2 p {
   font-family: Montserrat-Regular, sans-serif;
@@ -141,7 +141,7 @@ added to the button in the index html file as well.*/
 }
 .post.style2.invert a {
   color: #252629;
-  font-family: Georgia, serif;
+  font-family: Montserrat-ExtraBold, sans-serif;
 }
 .post.style2.invert p {
   font-family: Montserrat-Regular, sans-serif;
@@ -170,13 +170,13 @@ header p{
   color: rgba(158, 212, 172, 1);
 }
 h1{
-  font-family: Georgia, serif;
+  font-family: Montserrat-ExtraBold, sans-serif;
   font-size: 40px;
   color: #79c7e2;
 }
 h2{
   font-family: Montserrat-SemiBold, sans-serif;
-  font-size: 28px;
+  font-size: 26px;
   color: #252629;
 }
 h3{
